@@ -4,6 +4,7 @@ second line is added
 third line is added
 =======
 second line as shorten
+third shorten
 
 >>>>>>> shorten_title
 fourth master
