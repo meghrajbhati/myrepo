@@ -1,3 +1,8 @@
 this is my first file created by mr
+<<<<<<< HEAD
 second line is added
 third line is added
+=======
+second line as shorten
+
+>>>>>>> shorten_title
