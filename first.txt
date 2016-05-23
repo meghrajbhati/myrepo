@@ -1,4 +1,4 @@
-this is my first file created by mr
+this is my first file created by mr hello
 <<<<<<< HEAD
 second line is added
 third line is added
