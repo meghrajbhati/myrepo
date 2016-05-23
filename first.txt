@@ -1,3 +1,4 @@
 this is my first file created by mr
 second line as shorten
+third shorten
 
